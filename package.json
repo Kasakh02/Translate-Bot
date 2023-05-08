@@ -1,0 +1,17 @@
+{
+  "name": "translator-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kasakh",
+  "license": "ISC",
+  "dependencies": {
+    "@iamtraction/google-translate": "^2.0.1",
+    "discord-api-types": "^0.37.41",
+    "discord.js": "^14.10.2",
+    "dotenv": "^16.0.3"
+  }
+}
